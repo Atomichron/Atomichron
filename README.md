@@ -1,5 +1,4 @@
-# Atomichron <img src="![atomichron](https://user-images.githubusercontent.com/103338293/162594184-7101511c-a3f8-4d01-a5c2-ad9c554c077b.gif)" width="25px">
-
+# Atomichron ![atomichron](https://user-images.githubusercontent.com/103338293/162594222-2567dc36-076b-459f-aac8-e995bd870d15.gif)
 
 [#Atomichron](https://en.wikipedia.org/wiki/Atomichron) - keeping the CHRONology of the universe intact, down to the ATOM.
 
