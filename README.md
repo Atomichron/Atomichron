@@ -1,6 +1,13 @@
-![atomichron](https://user-images.githubusercontent.com/103338293/162594222-2567dc36-076b-459f-aac8-e995bd870d15.gif)
 
-[#Atomichron](https://en.wikipedia.org/wiki/Atomichron) - keeping the CHRONology of the universe intact, down to the ATOM.
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Atomichron">ATOMICHRON</a>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103338293/162594222-2567dc36-076b-459f-aac8-e995bd870d15.gif" />
+  </br>
+  </br>
+  keeping the CHRONology of the universe intact, down to the ATOM
+</p>
 
 <!--
 Game ideas:
